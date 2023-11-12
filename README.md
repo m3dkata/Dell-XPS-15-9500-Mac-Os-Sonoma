@@ -1,8 +1,27 @@
 # Dell XPS 15 - 9500 with Mac Os Sonoma
 Mac Os Sonoma 14.1 on Dell XPS 9500 Base model
+
 | OpenCore | Mac OS X |
 |------------|-------------|
 | v9.5 | macOS Sonoma Version 14.1 (Build 23B74) |
+| Function / Hardware	| Status |
+| iGPU UHD630 Acceleration | 	Working | 
+| CPU Power Management	| Working - idles at 800MHz, boosts to max Turbo frequency | 
+| Laptop Keyboard	| Working | 
+| Laptop Trackpad	| Working | 
+| Laptop Headphones Jack | 	Working | 
+| Built-in Speakers | Working | 
+| Built-in Mic | 	Working  |
+| Type-C / DP / Audio | Working | 
+| Hotkeys for audio | Working | 
+| USB 3.x	| Working | 
+| USB 2.0	|  Working | 
+| Fingerprint Sensor | 	Not working | 
+| SD Card Slot | 	Not Working | 
+| Screen brightness	| Working, hotkeys fn+S/fn+B to decrease/increase brightness | 
+| Built-in Wifi	| Working | 
+| Built-in Bluetooth | Working, AirDrop is not currently working | 
+| Built-in webcam | Working | 
 
 ## Screenshots
 ![Screenshot 2023-11-12 at 12 42 39](https://github.com/m3dkata/Dell-XPS-15-9500-Mac-Os-Sonoma/assets/91957938/c7e361e6-8498-4188-94c3-1f3e20debe1e)
