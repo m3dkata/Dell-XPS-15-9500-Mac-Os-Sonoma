@@ -4,7 +4,9 @@ Mac Os Sonoma 14.1 on Dell XPS 9500 Base model
 | OpenCore | Mac OS X |
 |------------|-------------|
 | v9.5 | macOS Sonoma Version 14.1 (Build 23B74) |
+
 | Function / Hardware	| Status |
+|------------|-------------|
 | iGPU UHD630 Acceleration | 	Working | 
 | CPU Power Management	| Working - idles at 800MHz, boosts to max Turbo frequency | 
 | Laptop Keyboard	| Working | 
