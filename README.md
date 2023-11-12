@@ -1,5 +1,10 @@
 # Dell XPS 15 - 9500 with Mac Os Sonoma
 Mac Os Sonoma 14.1 on Dell XPS 9500 Base model
+| OpenCore | Mac OS X |
+|------------|-------------|
+| v9.5 | macOS Sonoma Version 14.1 (Build 23B74) |
+
+## Screenshots
 ![Screenshot 2023-11-12 at 12 42 39](https://github.com/m3dkata/Dell-XPS-15-9500-Mac-Os-Sonoma/assets/91957938/c7e361e6-8498-4188-94c3-1f3e20debe1e)
 ![Screenshot 2023-11-12 at 12 41 47](https://github.com/m3dkata/Dell-XPS-15-9500-Mac-Os-Sonoma/assets/91957938/666c5781-3e98-426d-a796-139d4169a2c6)
 ![Screenshot 2023-11-12 at 12 41 57](https://github.com/m3dkata/Dell-XPS-15-9500-Mac-Os-Sonoma/assets/91957938/ca721e4a-b269-409e-9227-cf963a8b983d)
